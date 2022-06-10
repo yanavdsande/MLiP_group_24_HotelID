@@ -18,6 +18,8 @@ This folder includes the following notebooks:
  - Duplicate_files_removal.ipynb, used to remove duplicate files present in the data. It is altered to our needs from: https://medium.com/analytics-vidhya/removing-duplicate-docs-using-parallel-processing-in-python-53ade653090f
  - Training.ipynb, used to train models. It is altered to our needs from: https://www.kaggle.com/code/michaln/hotel-id-arcmargin-training
  - Inference.ipynb, used to create the submission file for Kaggle. It is altered to our needs from: https://www.kaggle.com/code/michaln/hotel-id-inference
+ - Inpainting.ipynb, used to inpaint during evaluation on the private test set 
+ - Inpaintin_training.ipynb, used to experiment with inpainting through DF-net during the process of creating our approach.
  - Baseline.ipynb, used for our first submission.
 
 ## Data
